@@ -28,7 +28,7 @@ git clone https://github.com/kanchangarg0724/WeatherComparator.git
  “Variance” : 3
 }
 ```
-5. Enter your API in config.js
+5. Enter your API Key in config.js
 ```
 apiKey = "Enter your API key"
 ```
