@@ -1,0 +1,16 @@
+{
+    "Chandigarh": {
+        "temp": {
+            "API": 15.41,
+            "Web": 15.0
+        },
+        "variance (in %)": 2.73
+    },
+    "Mumbai": {
+        "temp": {
+            "API": 27,
+            "Web": 27.0
+        },
+        "variance (in %)": 0.0
+    }
+}
