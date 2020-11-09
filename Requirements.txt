@@ -1,8 +1,0 @@
-#
-# You would need the following python packages 
-#
-
-requests==2.24.0
-selenium==3.141.0
-
-
