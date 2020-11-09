@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 # Installation
 1. Get the [API Key](https://home.openweathermap.org/api_keys)
-2. Get chrome [chrome driver](https://chromedriver.chromium.org/getting-started)
+2. Get the [chrome driver](https://chromedriver.chromium.org/getting-started)
 3. Clone the repo
 
 ``` 
