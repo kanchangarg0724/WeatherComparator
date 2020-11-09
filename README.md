@@ -32,7 +32,6 @@ git clone https://github.com/kanchangarg0724/WeatherComparator.git
 ```
 apiKey = "Enter your API key"
 ```
-# Usage
 
 # Contributing
 Any contributions you make are greatly appreciated.
