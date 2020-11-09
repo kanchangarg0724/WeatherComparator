@@ -5,7 +5,7 @@ This comparator matches the temperature information from the different source
 - Source 2: The public weather API by https://openweathermap.org
 
 # Prerequisites
-- python interpreter 3.6 or above
+- python interpreter [3.6 or above](https://www.python.org/downloads/release/python-360/)
 - python modules
 
 ```
@@ -32,15 +32,6 @@ git clone https://github.com/kanchangarg0724/WeatherComparator.git
 ```
 apiKey = "Enter your API key"
 ```
-
-# Contributing
-Any contributions you make are greatly appreciated.
-
-1. Fork the Project
-2. Create your Branch (git checkout -b feature/TestFeature)
-3. Commit your Changes (git commit -m 'Add some TestFeature')
-4. Push to the Branch (git push origin feature/TestFeature)
-5. Open a Pull Request
 
 # License
 This is an open source project
